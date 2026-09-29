@@ -17,7 +17,7 @@ title: Course
 | --- | --- | --- | --- | --- | --- |
 | Peter Kedron | Instructor | Lecture | By appointment | Ellison Hall 5818 | [peterkedron@ucsb.edu](mailto:peterkedron@ucsb.edu) |
 | Emily Zhou | TA | F 11:00 - 12:50 PM | M 1:30 - 3:30 PM | Ellison Hall 4806 | [ezhou@ucsb.edu](mailto:ezhou@ucsb.edu) |
-| Die Hu | TA | R 5:00 - 6:50 PM | T 1:00 - 3:00 PM | Ellison Hall 3625 | [diehu@ucsb.edu](mailto:diehu@ucsb.edu) |
+| Die Hu | TA | R 5:00 - 6:50 PM | TR 2:00 - 3:00 PM | Ellison Hall 3625 | [diehu@ucsb.edu](mailto:diehu@ucsb.edu) |
 
 ## Description
 

@@ -22,7 +22,10 @@ The activity for Week 0 is centered around building a collective map of geograph
 <details>
 <summary><strong>&nbsp; Week 1 - Pin It to Win It & The Cancer Map Mystery</strong></summary>
 
-&nbsp;&nbsp;TBD
+This week's activities introduce spatial data as observations tied to locations and shaped by the data-generating process. In <em>Pin It to Win It</em>, students use visual geographic clues to estimate locations on a U.S. map, showing how different prior knowledge and uncertainty can produce different spatial observations from the same information. In <em>The Cancer Map Mystery</em>, they compare maps of high and low kidney cancer rates and test whether striking geographic patterns can arise from random variation when population sizes differ. The central lesson is that a map reveals a pattern, but understanding that pattern requires asking how the data were produced, what denominator was used, and whether chance or measurement choices are driving the apparent structure.
+
+<br>
+<a href="../slides/WK1-SpatialData.pdf">Lecture Slides</a>
 
 </details>
 
