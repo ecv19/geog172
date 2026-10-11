@@ -39,8 +39,17 @@ This week's activity introduces centrography by asking students to summarize the
 <a href="../slides/WK2-C1-Centrography.pdf">Lecture Slides - Centrography</a>
 <br>
 <a href="../slides/WK2-C2-SpatialInequality.pdf">Lecture Slides - Spatial Inequality</a>
+</details>
+
+
+<br>
+<details>
+<summary><strong>&nbsp; Week 3 - The Random Orchard Challenge & Spatial Clues in the New England Woods</strong></summary>
+
+TBD
 
 </details>
+
 
 <br>
 
@@ -63,6 +72,8 @@ A series of computational notebooks presenting geographic concepts and spatial s
 | 8 | Impacted Inference |
 | 9 | TBD |
 | 10 | TBD |
+
+Demonstration of selected statistics in alternative software (e.g., ArcPro, GeoDa) are available on the canvas website for this course.
 
 ## Independent Online Resources
 

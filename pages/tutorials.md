@@ -19,16 +19,16 @@ Solutions to the tutorial assignments will be provided on the course website aft
 
 ## Tutorial Schedule
 
-| Week | Due | Topic                                                                        | Sample Solution    |
-| ---  | --- | ---                                                                          | ---                |
-| 0    | --- | **No Tutorial**                                                              | ---                |
-| 1    | --- | Prepare to Succeed in GEOG 172 (**No assignment due for this tutorial**)     | ---                |
-| 2    | 3   | Separate Northern and Southern California                                    | Learn-Centrogaphy  |
-| 3    | 4   | Establish How Well Sampling Schemes Perform Across DGPs                      |                    |
-| 4    | 5   | Point Patterns                                                               |                    |
-| 5    | 6   | Examine the Openshaw Effect                                                  |                    |
-| 6    | 7   | Global Statistics Tutorial                                                   |                    |
-| 7    | 8   | Central Places                                                               |                    |
-| 8    | 10  | Spatial Regression Tutorial                                                  |                    |
-| 9    | --- | **No Tutorial**                                                              |                    |
-| 10   | --- | **No Tutorial**                                                              |                    |
+| Week | Due | Topic                                                                    |
+| ---  | --- | ---                                                                      |
+| 0    | --- | **No Tutorial**                                                          |
+| 1    | --- | Prepare to Succeed in GEOG 172 (**No assignment due for this tutorial**) |
+| 2    | 3   | Separate Northern and Southern California                              |
+| 3    | 4   | Establish How Well Sampling Schemes Perform Across DGPs                |
+| 4    | 5   | Point Patterns                                                           |
+| 5    | 6   | Examine the Openshaw Effect                                              |
+| 6    | 7   | Global Statistics Tutorial                                               |
+| 7    | 8   | Central Places                                                           |
+| 8    | 10  | Spatial Regression Tutorial                                              |
+| 9    | --- | **No Tutorial**                                                          |
+| 10   | --- | **No Tutorial**                                                          |
